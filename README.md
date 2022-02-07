@@ -96,4 +96,4 @@ Add prefix `/ico` before Nodes APIs for ICO's APIs
     }
     ```
 11. Send stake transactions again to change the leader
-12. Stop the ICO App when you're done.s
+12. Stop the ICO App when you're done.
